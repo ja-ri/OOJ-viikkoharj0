@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64935c0a-d164-481a-8790-6d47e7fb52b5" name="Default Changelist" comment="Tehtävät valmiit(korjaus)" />
+    <list default="true" id="64935c0a-d164-481a-8790-6d47e7fb52b5" name="Default Changelist" comment="Tehtävät valmiit(korjaus)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +36,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1haacZgHT8s6tV9AjPmHfH7G68d" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -85,6 +88,7 @@
       <workItem from="1600768603033" duration="2437000" />
       <workItem from="1600771322227" duration="598000" />
       <workItem from="1600956629825" duration="1575000" />
+      <workItem from="1600959318386" duration="716000" />
     </task>
     <task id="LOCAL-00001" summary="Tehtävät valmiit">
       <created>1600770474882</created>
@@ -100,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600958730526</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Tehtävät valmiit(korjaus)">
+      <created>1600959385416</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600959385416</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,10 +143,10 @@
       <screen x="0" y="0" width="1440" height="929" />
     </state>
     <state x="176" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.929@0.0.1440.929" timestamp="1600252284978" />
-    <state x="501" y="220" key="FileChooserDialogImpl" timestamp="1600956775301">
+    <state x="501" y="220" key="FileChooserDialogImpl" timestamp="1600959811838">
       <screen x="0" y="0" width="1440" height="929" />
     </state>
-    <state x="501" y="220" key="FileChooserDialogImpl/0.0.1440.929@0.0.1440.929" timestamp="1600956775301" />
+    <state x="501" y="220" key="FileChooserDialogImpl/0.0.1440.929@0.0.1440.929" timestamp="1600959811838" />
     <state width="1397" height="245" key="GridCell.Tab.0.bottom" timestamp="1600959295776">
       <screen x="0" y="0" width="1440" height="929" />
     </state>
@@ -152,10 +163,18 @@
       <screen x="0" y="0" width="1440" height="929" />
     </state>
     <state width="1397" height="245" key="GridCell.Tab.0.right/0.0.1440.929@0.0.1440.929" timestamp="1600959295776" />
-    <state x="313" y="198" key="Vcs.Push.Dialog.v2" timestamp="1600958742123">
+    <state x="360" y="226" key="MultipleFileMergeDialog" timestamp="1600959371658">
       <screen x="0" y="0" width="1440" height="929" />
     </state>
-    <state x="313" y="198" key="Vcs.Push.Dialog.v2/0.0.1440.929@0.0.1440.929" timestamp="1600958742123" />
+    <state x="360" y="226" key="MultipleFileMergeDialog/0.0.1440.929@0.0.1440.929" timestamp="1600959371658" />
+    <state x="313" y="198" key="Vcs.Push.Dialog.v2" timestamp="1600959395231">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="313" y="198" key="Vcs.Push.Dialog.v2/0.0.1440.929@0.0.1440.929" timestamp="1600959395231" />
+    <state x="538" y="379" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600959360153">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="538" y="379" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.929@0.0.1440.929" timestamp="1600959360153" />
     <state x="360" y="85" key="new project wizard" timestamp="1600251844659">
       <screen x="0" y="0" width="1440" height="929" />
     </state>
