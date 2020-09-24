@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64935c0a-d164-481a-8790-6d47e7fb52b5" name="Default Changelist" comment="Tehtävät valmiit">
+      <change beforePath="$PROJECT_DIR$/src/reverser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reverser.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1haacZgHT8s6tV9AjPmHfH7G68d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Projektit/OOJ/ooj-1-vkteht" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="reverser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reverser" />
+      <module name="name reverser" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.reverser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64935c0a-d164-481a-8790-6d47e7fb52b5" name="Default Changelist" comment="" />
+      <created>1600251736241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600251736241</updated>
+      <workItem from="1600251742417" duration="2003000" />
+      <workItem from="1600282383928" duration="198000" />
+      <workItem from="1600337279459" duration="1087000" />
+      <workItem from="1600339348275" duration="880000" />
+      <workItem from="1600679920762" duration="23000" />
+      <workItem from="1600768603033" duration="2437000" />
+      <workItem from="1600771322227" duration="598000" />
+      <workItem from="1600956629825" duration="770000" />
+    </task>
+    <task id="LOCAL-00001" summary="Tehtävät valmiit">
+      <created>1600770474882</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600770474882</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tehtävät valmiit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tehtävät valmiit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="201" y="39" key="#Project_Structure" timestamp="1600251963541">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="201" y="39" key="#Project_Structure/0.0.1440.929@0.0.1440.929" timestamp="1600251963541" />
+    <state x="176" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600252284978">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="176" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.929@0.0.1440.929" timestamp="1600252284978" />
+    <state x="501" y="220" key="FileChooserDialogImpl" timestamp="1600956775301">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="501" y="220" key="FileChooserDialogImpl/0.0.1440.929@0.0.1440.929" timestamp="1600956775301" />
+    <state width="1397" height="245" key="GridCell.Tab.0.bottom" timestamp="1600771058696">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state width="1397" height="245" key="GridCell.Tab.0.bottom/0.0.1440.929@0.0.1440.929" timestamp="1600771058696" />
+    <state width="1397" height="245" key="GridCell.Tab.0.center" timestamp="1600771058696">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state width="1397" height="245" key="GridCell.Tab.0.center/0.0.1440.929@0.0.1440.929" timestamp="1600771058696" />
+    <state width="1397" height="245" key="GridCell.Tab.0.left" timestamp="1600771058696">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state width="1397" height="245" key="GridCell.Tab.0.left/0.0.1440.929@0.0.1440.929" timestamp="1600771058696" />
+    <state width="1397" height="245" key="GridCell.Tab.0.right" timestamp="1600771058696">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state width="1397" height="245" key="GridCell.Tab.0.right/0.0.1440.929@0.0.1440.929" timestamp="1600771058696" />
+    <state x="313" y="198" key="Vcs.Push.Dialog.v2" timestamp="1600770546219">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="313" y="198" key="Vcs.Push.Dialog.v2/0.0.1440.929@0.0.1440.929" timestamp="1600770546219" />
+    <state x="360" y="85" key="new project wizard" timestamp="1600251844659">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="360" y="85" key="new project wizard/0.0.1440.929@0.0.1440.929" timestamp="1600251844659" />
+  </component>
+</project>
