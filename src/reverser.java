@@ -12,7 +12,14 @@ public class reverser {
         for (int i = len - 1; i >= 0; i--) {
             reverse = reverse + name.charAt(i);
         }
+
         String reverselow = reverse.toLowerCase();
+
+        System.out.println("Nimesi väärinpäin on " + reverselow);
+
+        System.out.println("    *");
+        System.out.println("    *");
+        System.out.println("    *");
 
         System.out.println("Haluatko tietää onko nimesi palindromi?");
         System.out.println("Kirjoita kyllä jos haluat, ei jos et halua.");
